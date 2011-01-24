@@ -1,0 +1,21 @@
+You need Delphi 7 to compile this legacy AlumniBook Project.
+You also need gds32.dll from Firebird/ interbase to open database from this AlumniBook.
+
+You can download sample database from
+http://github.com/epsi/AlumniBook-CI
+
+Screenshot available:
+http://picasaweb.google.com/epsi.rns/AlumniBook#
++ D7 - Browse - Alumni
++ D7 - Browse - Organization
++ D7 - Entry - Alumni
++ D7 - Entry - Organization (Alumni List)
++ D7 - Entry - Organization (Branch List)
++ D7 - Entry - Map (Alumni to Organization)
++ D7 - Export - Spreadsheet
++ D7 - Miscellanous - Chart - Business Field
++ D7 - Miscellanous - Chart - Community (by Angkatan)
+
+Have Fun.
+
+~epsi @rizqi
