@@ -1,0 +1,29 @@
+h1 { text-align :  center; }
+h2 { color : #999999; }
+h3 { color : #996600; }
+
+table { 
+  font-size: 11px;
+  font-family: "Verdana", "Arial", "Helvetica";  
+}
+
+table.master, table.detail, table.plain	{  background-color : #eeeeee;	}
+
+td.head { 
+  background-color : #ccffcc;
+  text-align : left;
+  font-weight : bold;
+  vertical-align: top;
+}
+
+/* Layout */
+
+table.plain		{  width: 100%;	} 
+table.master	{  width: 75%;	}
+table.detail	{  width: 100%;	}
+#pagewidth	{  width: 480px;	}
+#namewidth	{  width: 100px;	}
+#mvalwidth	{  width: 380px;	}
+#dvalwidth	{  width: 280px;	}
+td.head		{  width: 20px;	}
+
